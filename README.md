@@ -111,7 +111,7 @@ The dataset contains mobile sales transaction records including:
 
 ### Executive Dashboard
 
-![Motorola Dashboard](Dashboard-1.png)
+![Motorola Dashboard](Dashboard%20.png)
 
 
 ---
