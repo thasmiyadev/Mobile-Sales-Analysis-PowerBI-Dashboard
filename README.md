@@ -109,9 +109,11 @@ The dataset contains mobile sales transaction records including:
 
 ## Dashboard Preview
 
-### Executive Dashboard
+# Mobile Sales Performance Dashboard - Power BI
 
-![Motorola Dashboard](Dashboard%20.png)
+![Motorola Dashboard](Motorola%20Dashboard.png)
+
+
 
 
 ---
