@@ -24,12 +24,12 @@ The dashboard enables business users to monitor KPIs, identify high-performing b
 
 # Key Performance Indicators (KPIs)
 
-- 📈 Total Sales
-- 📦 Total Quantity Sold
-- 💳 Total Transactions
-- 💰 Average Sales
-- ⭐ Customer Ratings
-- 📍 City-wise Sales
+- Total Sales
+- Total Quantity Sold
+- Total Transactions
+- Average Sales
+- Customer Ratings
+- City-wise Sales
 
 ---
 
