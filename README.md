@@ -107,11 +107,12 @@ The dataset contains mobile sales transaction records including:
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-### Mobile Sales Dashboard
+### Executive Dashboard
 
-![Dashboard](Dashboard-1.png)
+![Mobile Sales Dashboard](Dashboard-1.png)
+
 
 ---
 
